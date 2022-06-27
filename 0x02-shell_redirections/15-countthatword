@@ -1,0 +1,3 @@
+#!/bin/bash
+gcase 
+rep -c "bin" /etc/passwd
